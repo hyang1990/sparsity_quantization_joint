@@ -1,5 +1,7 @@
 # Automatic Neural Network Compression by Sparsity-Quantization Joint Learning
 Code for paper "Automatic Neural Network Compression by Sparsity-Quantization Joint Learning: A Constrained Optimization-based Approach" (https://arxiv.org/pdf/1910.05897.pdf)
+
+If you find the repo useful, please kindly cite our paper:
 ```
 @inproceedings{yang2019learning,
   title={Automatic Neural Network Compression by Sparsity-Quantization Joint Learning: A Constrained Optimization-based Approach},
